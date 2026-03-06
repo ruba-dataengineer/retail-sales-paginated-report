@@ -28,11 +28,7 @@ The report analyzes retail sales data and presents key metrics and detailed tran
 - Sales
 - Quantity
 - Profit
-
-## Report Preview
-
-![Report Preview](Images/report_preview.png)
-
+  
 ## Files Included
 - `.rdl` Paginated Report
 - Excel Dataset
